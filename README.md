@@ -42,7 +42,8 @@ available to public for Gallbladder Cancer identification with the help of Ultra
 contains malignant cancer. This data is collected from 218 patientsa. Of the 218apatients, 71a, 100a, and 47a were from the normal, benign, and malignant classes, respectively.
 
 
-
+## Research Paper
+ IEEE Link: https://ieeexplore.ieee.org/document/10731061
 
 ## If you want to access the model, visit the below link of the organization:
 
